@@ -35,6 +35,9 @@ The third section introduces you to back end development using `Node.js`, `Expre
 
 To earn this certification, you'll build **5 APIs** and **5 full stack apps**.
 
+##### 4. Help 
+You can ask me any queries at any time.
+
 We will accept solutions implemented in _any_ programming language, as long as both a live demo and the source code are publicly accessible.
 
 ##### 4. Full Stack Certification
